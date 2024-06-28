@@ -1,0 +1,201 @@
+EmployeeID,Age,Gender,Department,JobRole,EducationLevel,YearsOfExperience,Salary,PerformanceRating,TrainingHours,AttendanceRecords,JobSatisfaction,CommuteTime,LastPromotionDate,HiringSource,WorkHoursPerWeek,OvertimeHours,Turnover
+1,50,Female,IT,Engineer,PhD,5,80367.63,Low,63,11,Low,84,2016-12-05,Campus,52,11,Yes
+2,36,Female,Sales,Manager,High School,29,43971.62,Low,46,86,High,17,2015-05-15,Job Portal,36,10,No
+3,29,Male,IT,Analyst,Bachelor's,1,46373.53,Medium,28,11,High,66,2012-11-14,Referral,25,13,No
+4,42,Female,Finance,Analyst,Bachelor's,14,107560.71,Low,75,24,Medium,41,2016-12-04,Referral,23,15,Yes
+5,40,Female,IT,Engineer,High School,10,115150.39,High,35,300,Low,117,2018-02-12,Job Portal,39,0,No
+6,44,Male,HR,Manager,Bachelor's,7,63597.84,Low,98,242,Low,38,2012-08-21,Referral,46,12,Yes
+7,32,Male,HR,Specialist,High School,25,54367.02,Medium,51,121,Low,40,2011-06-21,Job Portal,34,12,No
+8,32,Female,Finance,Specialist,Bachelor's,4,87959.96,Medium,75,146,Medium,112,2021-07-25,Agency,25,1,No
+9,45,Male,Sales,Analyst,Master's,5,66786.08,Medium,6,54,Medium,74,2020-01-28,Job Portal,33,3,Yes
+10,57,Male,HR,Manager,Master's,25,32284.77,Medium,28,237,Medium,102,2021-06-19,Agency,30,5,Yes
+11,45,Female,Operations,Analyst,PhD,3,44053.73,Medium,10,355,Medium,23,2020-03-13,Job Portal,58,4,Yes
+12,24,Male,HR,Clerk,Master's,18,94437.5,Low,32,172,Medium,59,2011-06-27,Campus,28,2,No
+13,43,Male,HR,Analyst,Master's,19,89303.15,Low,5,220,High,45,2012-04-25,Campus,45,0,Yes
+14,23,Female,Sales,Analyst,Master's,32,32438.64,Low,78,118,Low,18,2019-11-13,Agency,35,3,No
+15,45,Female,IT,Specialist,High School,19,49977.49,Low,31,308,Low,67,2018-04-25,Agency,24,19,Yes
+16,51,Male,HR,Specialist,Master's,11,50796.73,Medium,50,182,Low,89,2016-10-30,Campus,29,1,No
+17,59,Male,Finance,Specialist,Master's,0,90470.35,High,74,287,Low,101,2022-04-13,Agency,22,4,No
+18,23,Female,IT,Clerk,PhD,25,31773.95,Low,57,306,Low,41,2017-06-12,Job Portal,32,2,Yes
+19,42,Female,Operations,Specialist,Master's,13,39369.77,High,86,299,Low,31,2015-02-28,Job Portal,49,8,No
+20,54,Female,Sales,Manager,Master's,10,101992.45,Low,25,81,Low,38,2021-05-01,Campus,25,19,No
+21,33,Female,Operations,Engineer,Bachelor's,12,46069.02,Low,97,210,Low,108,2021-11-28,Referral,36,5,Yes
+22,43,Male,IT,Manager,PhD,2,88747.15,High,45,149,High,109,2018-10-07,Job Portal,38,17,No
+23,46,Female,IT,Manager,PhD,32,51436.45,Medium,97,36,Low,35,2017-06-03,Agency,54,5,Yes
+24,48,Female,IT,Specialist,PhD,5,38949.73,Low,28,351,High,103,2015-05-08,Referral,45,18,Yes
+25,49,Male,Operations,Engineer,PhD,9,51885.5,Low,3,311,Medium,100,2022-12-21,Referral,24,11,Yes
+26,37,Female,IT,Engineer,PhD,4,95004.02,Low,80,360,Low,96,2020-07-17,Job Portal,48,10,Yes
+27,36,Male,Operations,Engineer,PhD,22,107012.68,High,98,58,Medium,35,2011-11-21,Job Portal,56,1,No
+28,24,Female,IT,Clerk,High School,9,104719.79,Medium,12,130,Medium,2,2015-05-05,Referral,39,14,No
+29,58,Female,Finance,Specialist,Master's,1,65746.52,High,38,201,Medium,72,2011-04-02,Referral,40,11,No
+30,28,Female,IT,Engineer,PhD,12,90127.66,High,14,242,High,7,2023-11-27,Campus,29,11,Yes
+31,42,Male,Operations,Clerk,Master's,1,48448.59,Medium,28,34,Medium,96,2015-11-01,Agency,24,8,No
+32,30,Male,HR,Analyst,Master's,19,56383.3,High,28,92,Medium,69,2020-11-20,Campus,55,1,No
+33,39,Female,IT,Analyst,High School,0,110670.22,Medium,74,206,Medium,40,2021-08-15,Job Portal,25,2,Yes
+34,25,Male,HR,Clerk,PhD,8,31170.17,Low,31,352,Low,102,2013-03-25,Campus,45,11,Yes
+35,46,Male,Finance,Clerk,Bachelor's,16,37695.77,Medium,1,331,Low,67,2021-09-25,Campus,23,15,No
+36,35,Male,Sales,Specialist,High School,8,48709.76,Low,46,304,High,12,2019-10-06,Campus,58,0,Yes
+37,30,Male,Finance,Specialist,Bachelor's,10,32387.9,High,77,349,High,48,2012-06-01,Campus,58,2,Yes
+38,47,Male,IT,Analyst,Master's,14,46329.19,High,83,212,Low,59,2011-02-04,Agency,54,19,Yes
+39,23,Male,HR,Engineer,Master's,23,82473.74,Low,21,158,High,1,2011-09-01,Agency,20,1,Yes
+40,41,Female,HR,Analyst,High School,34,67928.21,High,74,23,Low,59,2014-06-27,Referral,43,8,No
+41,49,Female,Operations,Engineer,High School,29,110340.45,Medium,26,292,Medium,4,2015-11-19,Job Portal,55,18,Yes
+42,28,Male,HR,Engineer,Bachelor's,30,103569.92,Low,66,3,Medium,43,2013-10-14,Campus,25,14,Yes
+43,29,Female,Operations,Specialist,PhD,4,60763.56,High,80,219,High,26,2013-11-04,Referral,50,17,Yes
+44,56,Female,Sales,Manager,Bachelor's,13,53348.11,Low,55,363,Low,31,2012-03-30,Referral,39,10,Yes
+45,35,Female,IT,Manager,High School,10,64172.32,Medium,91,19,Low,20,2019-01-06,Referral,43,15,Yes
+46,38,Female,Operations,Clerk,Bachelor's,8,83126.54,Medium,92,151,High,7,2012-03-30,Agency,44,16,Yes
+47,57,Male,Sales,Specialist,High School,33,54125.73,High,20,49,Low,101,2011-02-24,Campus,55,4,Yes
+48,25,Female,HR,Engineer,Bachelor's,11,86173.4,Medium,46,176,Medium,71,2021-07-21,Campus,40,11,Yes
+49,23,Female,HR,Manager,High School,34,66847.05,Low,79,95,High,49,2022-05-15,Job Portal,49,10,No
+50,27,Male,Sales,Engineer,High School,34,79684.25,Medium,58,104,High,66,2019-01-16,Campus,43,14,Yes
+51,25,Male,HR,Manager,High School,0,69251.39,Low,83,249,Low,117,2014-02-17,Campus,49,2,No
+52,50,Female,Sales,Manager,PhD,21,56501.92,Low,5,116,High,43,2012-02-07,Referral,41,0,Yes
+53,39,Female,Operations,Manager,Bachelor's,28,115360.8,Medium,18,353,Low,57,2015-08-07,Job Portal,47,19,Yes
+54,47,Female,Operations,Specialist,Bachelor's,7,98724.52,High,56,227,Low,2,2015-11-10,Campus,26,15,Yes
+55,55,Female,Sales,Analyst,Bachelor's,10,42610.19,Medium,68,65,Low,85,2018-04-18,Agency,54,1,Yes
+56,31,Female,Operations,Engineer,High School,13,108162.12,Low,2,334,Low,69,2014-03-30,Campus,47,1,No
+57,57,Female,Operations,Specialist,Bachelor's,29,73868.81,Low,0,261,Low,1,2014-10-31,Referral,33,2,Yes
+58,35,Male,Operations,Specialist,Bachelor's,34,110509.7,Medium,57,294,High,86,2017-03-30,Agency,29,7,Yes
+59,52,Female,Finance,Specialist,High School,20,101986.97,High,37,242,Medium,43,2020-03-05,Referral,35,14,No
+60,36,Female,IT,Specialist,Master's,4,68269.22,High,14,185,Medium,1,2022-08-11,Campus,35,6,No
+61,29,Male,HR,Specialist,High School,18,32022.24,Low,33,245,High,101,2022-04-09,Agency,50,5,Yes
+62,35,Male,Finance,Clerk,Bachelor's,13,54180.96,Low,60,124,High,80,2016-04-12,Job Portal,44,8,No
+63,44,Male,Operations,Engineer,High School,25,78747.08,High,34,267,Medium,34,2023-03-31,Job Portal,32,19,No
+64,42,Male,Sales,Specialist,Master's,3,87013.04,Medium,63,130,Medium,97,2017-06-01,Agency,25,0,No
+65,37,Female,Operations,Engineer,High School,24,53209.89,Low,24,236,Medium,86,2012-06-19,Agency,28,7,Yes
+66,39,Female,IT,Clerk,Bachelor's,24,42542.05,Low,23,17,Medium,29,2018-06-12,Referral,55,2,Yes
+67,45,Female,Operations,Clerk,Master's,17,105143.72,High,11,39,Medium,115,2015-07-03,Agency,39,3,Yes
+68,47,Female,Sales,Engineer,PhD,7,118596.2,Medium,17,20,Low,7,2010-08-30,Referral,37,14,No
+69,46,Female,IT,Manager,Bachelor's,13,77312.12,High,14,224,High,21,2016-07-13,Campus,40,5,Yes
+70,50,Female,Operations,Analyst,Master's,31,45451.14,Medium,79,354,Low,43,2021-09-08,Referral,23,14,No
+71,36,Male,IT,Manager,Master's,32,54507.66,Medium,26,281,Medium,57,2011-11-03,Agency,52,2,Yes
+72,22,Female,HR,Manager,PhD,22,31655.16,Medium,71,7,Medium,35,2010-06-13,Agency,46,13,Yes
+73,46,Male,HR,Manager,High School,14,112286.89,Low,59,99,Medium,68,2011-04-10,Campus,26,19,No
+74,28,Male,Operations,Specialist,High School,32,40597.6,High,45,239,Low,76,2018-05-01,Agency,25,13,Yes
+75,30,Female,IT,Clerk,Bachelor's,24,81886.48,High,88,86,Low,92,2022-07-29,Agency,34,3,No
+76,45,Male,Sales,Manager,PhD,16,54664.97,Medium,16,297,Medium,30,2023-02-17,Job Portal,37,11,No
+77,22,Female,Operations,Clerk,High School,32,79876.02,Low,92,13,Low,46,2016-09-08,Job Portal,51,16,Yes
+78,29,Male,HR,Engineer,PhD,1,88627.83,Low,52,333,Low,54,2023-02-20,Campus,30,6,No
+79,45,Female,HR,Analyst,High School,13,104676.76,High,7,1,Medium,79,2016-06-13,Referral,39,8,Yes
+80,32,Male,Operations,Engineer,Master's,5,48577.91,Low,78,292,Low,105,2021-09-18,Job Portal,43,2,Yes
+81,38,Female,IT,Engineer,High School,5,30989.62,Low,26,324,High,61,2022-12-08,Referral,34,12,No
+82,29,Female,HR,Specialist,PhD,2,42319.71,Medium,45,40,High,29,2017-01-01,Agency,26,14,Yes
+83,56,Female,IT,Analyst,Master's,6,111001.68,Low,49,317,High,54,2011-06-30,Job Portal,40,17,No
+84,56,Female,HR,Engineer,Master's,7,108650.11,Medium,70,315,High,15,2022-12-03,Campus,45,18,Yes
+85,54,Female,HR,Engineer,Master's,14,83767.18,High,2,110,Medium,11,2020-07-02,Campus,33,0,Yes
+86,26,Male,Finance,Analyst,PhD,28,84046.52,Low,92,13,Medium,16,2011-08-17,Campus,56,5,Yes
+87,49,Male,HR,Analyst,Bachelor's,32,89853.3,High,63,230,Medium,15,2023-04-02,Job Portal,40,1,Yes
+88,28,Male,Sales,Engineer,Bachelor's,29,45783.42,High,43,83,High,11,2020-06-01,Referral,37,13,Yes
+89,30,Female,Operations,Analyst,Bachelor's,26,112297.08,Low,52,129,High,7,2013-12-30,Agency,24,5,No
+90,29,Male,Operations,Engineer,PhD,28,67689.35,Low,23,230,Low,83,2019-07-26,Referral,22,13,No
+91,33,Female,IT,Engineer,Master's,32,64482.47,High,59,325,Low,2,2017-02-14,Referral,42,3,No
+92,55,Female,HR,Specialist,Bachelor's,26,76702.59,Low,2,144,High,15,2016-09-10,Agency,45,7,No
+93,54,Male,Sales,Manager,PhD,32,34226.94,Medium,19,344,High,29,2017-04-26,Agency,56,2,No
+94,44,Male,IT,Engineer,Bachelor's,3,44965.5,Medium,45,27,High,108,2021-07-02,Job Portal,43,18,No
+95,45,Female,Finance,Clerk,High School,21,96423.03,Low,14,65,High,22,2010-01-17,Job Portal,38,13,Yes
+96,58,Male,IT,Manager,Bachelor's,1,37451.88,High,24,162,Low,91,2018-09-27,Job Portal,44,19,Yes
+97,56,Female,IT,Manager,Bachelor's,9,84283.69,Low,93,228,High,114,2011-01-28,Job Portal,40,16,No
+98,43,Female,HR,Manager,Master's,4,52081.42,Low,77,260,Low,103,2011-03-01,Job Portal,31,7,No
+99,48,Female,Finance,Specialist,PhD,9,65036.61,High,70,163,High,117,2011-07-26,Agency,52,13,Yes
+100,56,Female,IT,Engineer,Master's,32,55982.44,High,16,300,High,4,2019-12-11,Referral,23,5,Yes
+101,22,Female,Sales,Specialist,Master's,12,62010.54,Medium,83,302,High,83,2013-01-25,Job Portal,26,15,Yes
+102,56,Male,Sales,Engineer,Master's,30,94714.13,High,99,286,Low,103,2010-08-30,Job Portal,41,18,No
+103,58,Male,Operations,Specialist,Master's,23,56740.95,Medium,8,9,Low,119,2020-09-02,Referral,52,13,No
+104,35,Female,Finance,Specialist,Master's,14,80976.42,High,37,194,Medium,107,2021-03-19,Job Portal,36,18,No
+105,24,Female,Finance,Clerk,Bachelor's,28,72844.54,Low,47,117,High,64,2016-03-29,Referral,43,2,Yes
+106,22,Male,Operations,Specialist,Master's,7,89730.4,Medium,59,269,Medium,29,2012-02-28,Referral,53,9,Yes
+107,26,Male,IT,Analyst,Master's,4,114314.68,Medium,62,79,Medium,20,2011-12-16,Agency,47,18,No
+108,47,Female,Finance,Clerk,PhD,28,95931.49,Medium,85,92,Low,83,2023-04-17,Campus,58,8,No
+109,35,Male,Sales,Specialist,High School,3,49344.63,Low,1,265,Low,69,2017-10-20,Agency,41,19,Yes
+110,48,Female,Sales,Manager,Bachelor's,11,32806.48,Low,87,331,Medium,21,2012-02-15,Campus,36,12,Yes
+111,30,Male,HR,Analyst,Bachelor's,1,53603.76,Low,71,349,High,81,2021-01-09,Campus,53,6,Yes
+112,36,Female,Finance,Analyst,Bachelor's,26,83557.01,Low,10,360,Low,71,2016-02-26,Campus,25,13,Yes
+113,36,Male,IT,Analyst,Master's,30,34628.32,Low,63,256,High,102,2010-03-20,Job Portal,25,8,No
+114,47,Female,Operations,Clerk,Master's,25,74672.96,Medium,76,132,High,31,2020-10-01,Agency,53,18,Yes
+115,34,Male,Operations,Specialist,Master's,26,83715.86,Low,80,275,Medium,32,2012-05-05,Campus,20,14,Yes
+116,53,Male,IT,Specialist,PhD,4,60081.95,Medium,71,263,Medium,116,2015-11-19,Referral,29,19,Yes
+117,53,Female,HR,Manager,High School,19,99382.1,Low,20,170,Medium,15,2012-10-28,Job Portal,40,13,No
+118,25,Male,Operations,Manager,Master's,10,39593.84,High,17,0,Medium,75,2023-07-12,Agency,24,5,No
+119,51,Female,Finance,Analyst,High School,9,36762.4,Medium,93,312,Low,37,2018-12-16,Campus,21,3,Yes
+120,58,Male,HR,Manager,PhD,5,95536.99,High,63,63,Low,115,2019-10-17,Referral,41,7,Yes
+121,44,Female,Finance,Clerk,Bachelor's,7,74594.22,Medium,81,283,Medium,97,2021-06-14,Agency,21,16,Yes
+122,36,Male,Sales,Specialist,Master's,22,91956.22,High,94,120,Low,13,2019-06-19,Agency,29,8,No
+123,50,Female,HR,Analyst,High School,25,69134.46,Low,37,106,Medium,35,2019-08-08,Job Portal,53,0,No
+124,57,Male,Operations,Manager,High School,11,52176.18,Low,31,174,High,96,2011-02-12,Agency,35,19,No
+125,34,Female,HR,Clerk,Master's,25,103719.21,Low,10,203,High,22,2017-06-04,Job Portal,58,13,Yes
+126,53,Male,HR,Clerk,Bachelor's,12,101947.43,Medium,44,164,High,113,2018-06-16,Campus,41,10,No
+127,28,Female,HR,Manager,Bachelor's,17,92522.68,High,88,304,Medium,108,2014-07-27,Job Portal,31,2,Yes
+128,43,Female,HR,Specialist,Bachelor's,24,54493.06,Low,32,119,High,65,2010-05-28,Referral,43,8,Yes
+129,49,Female,Finance,Manager,PhD,32,83120.76,High,40,43,Low,104,2021-11-06,Job Portal,59,13,Yes
+130,23,Male,Sales,Analyst,High School,11,62487.65,High,7,311,High,84,2020-09-02,Referral,57,8,No
+131,27,Female,IT,Manager,High School,3,38242.39,Low,10,155,High,1,2015-05-05,Job Portal,29,3,Yes
+132,49,Male,HR,Clerk,High School,4,112558.22,Low,85,206,High,90,2011-01-01,Agency,54,3,No
+133,49,Female,Operations,Manager,PhD,7,42313.68,High,50,107,Low,72,2014-08-02,Campus,51,7,No
+134,41,Male,HR,Specialist,High School,27,115521.36,Low,87,250,Medium,64,2022-05-29,Referral,26,1,Yes
+135,51,Female,Operations,Engineer,PhD,30,70140.52,Low,40,333,Low,74,2022-04-22,Job Portal,40,8,Yes
+136,32,Male,Finance,Manager,Bachelor's,8,46661.96,Low,16,129,Medium,66,2016-12-21,Job Portal,39,13,No
+137,49,Male,Operations,Specialist,Master's,28,78771.09,Medium,75,292,Medium,51,2011-07-17,Job Portal,45,8,Yes
+138,46,Female,IT,Specialist,High School,13,108565.13,High,45,19,High,61,2019-10-03,Agency,23,15,No
+139,54,Male,Sales,Clerk,High School,21,95900.24,High,31,281,Medium,22,2016-10-25,Agency,41,16,Yes
+140,22,Male,Operations,Specialist,Bachelor's,10,102590.5,Medium,78,284,Low,25,2012-02-12,Referral,34,15,No
+141,48,Female,Operations,Specialist,Master's,22,89290.5,High,79,0,Low,67,2015-07-31,Referral,59,11,No
+142,34,Male,Sales,Specialist,PhD,0,92304.89,Low,53,118,Medium,81,2019-05-17,Agency,40,2,No
+143,24,Male,IT,Specialist,Master's,20,106427.61,High,85,34,High,54,2017-01-11,Referral,34,10,No
+144,27,Male,HR,Analyst,Bachelor's,25,52470.12,Low,91,197,High,5,2014-04-23,Campus,41,13,Yes
+145,29,Female,Operations,Analyst,Bachelor's,22,74048.25,Medium,19,244,Low,34,2020-02-12,Campus,47,17,Yes
+146,48,Male,Sales,Clerk,Master's,0,49908.85,Low,32,58,High,21,2023-12-06,Agency,33,4,No
+147,30,Female,Finance,Manager,PhD,14,118890.12,High,73,324,Medium,42,2019-01-05,Referral,46,15,No
+148,58,Male,Sales,Specialist,PhD,20,114965.34,High,39,160,Medium,14,2013-05-31,Job Portal,59,19,Yes
+149,54,Male,Finance,Manager,High School,8,33548.41,High,31,178,Low,85,2020-03-08,Campus,47,4,Yes
+150,45,Male,IT,Manager,PhD,8,93501.77,Medium,96,205,Medium,59,2020-07-06,Agency,45,2,Yes
+151,36,Female,HR,Clerk,Master's,9,113272.35,Medium,1,11,Low,100,2010-12-26,Referral,21,11,Yes
+152,53,Male,Sales,Specialist,Bachelor's,25,46251.78,High,96,275,Medium,115,2023-09-26,Agency,44,0,Yes
+153,53,Male,Operations,Specialist,High School,34,81115.07,Low,32,180,Low,105,2016-07-04,Job Portal,22,8,Yes
+154,45,Female,IT,Engineer,High School,24,112393.95,Medium,76,241,High,11,2018-03-29,Campus,27,8,No
+155,33,Male,Sales,Manager,Bachelor's,25,33055.14,High,29,215,Medium,110,2018-03-13,Agency,52,3,Yes
+156,23,Female,Operations,Manager,PhD,10,92767.82,High,32,250,Medium,48,2012-08-20,Agency,54,2,Yes
+157,24,Female,Sales,Analyst,Bachelor's,1,56761.41,Medium,76,298,Low,41,2019-12-12,Agency,25,16,No
+158,58,Male,Finance,Engineer,PhD,6,113195.66,Medium,25,125,Low,37,2015-01-02,Job Portal,58,1,Yes
+159,38,Female,Sales,Analyst,Bachelor's,17,117395.24,Medium,21,216,Medium,81,2014-06-02,Agency,42,0,Yes
+160,23,Male,Sales,Analyst,Master's,26,114983.98,Low,65,305,Low,44,2014-06-29,Job Portal,44,7,Yes
+161,23,Female,Sales,Analyst,PhD,33,72679.28,Low,37,284,Medium,34,2016-01-26,Job Portal,38,12,Yes
+162,49,Female,IT,Clerk,Master's,26,107583.84,High,89,184,High,29,2021-10-22,Job Portal,24,14,Yes
+163,44,Male,Sales,Clerk,High School,16,106009.45,Medium,45,38,Low,87,2011-01-13,Campus,30,7,No
+164,58,Female,Operations,Analyst,Bachelor's,23,58719.04,Low,14,222,Medium,105,2021-07-16,Campus,31,11,Yes
+165,53,Female,Finance,Engineer,High School,24,104602.39,Medium,97,183,High,29,2021-09-25,Agency,29,11,No
+166,54,Female,Finance,Manager,High School,6,33330.69,High,43,177,High,77,2011-01-05,Agency,27,13,No
+167,22,Female,Sales,Engineer,High School,5,83664.29,Low,48,293,Medium,5,2016-01-06,Campus,43,14,Yes
+168,40,Female,IT,Specialist,High School,23,50700.8,Low,74,339,Low,66,2020-04-05,Referral,47,14,No
+169,23,Male,IT,Clerk,Bachelor's,32,40851.02,Low,60,150,Medium,79,2011-10-14,Campus,55,8,Yes
+170,47,Female,Operations,Manager,High School,28,36925.79,High,66,125,High,6,2012-02-09,Job Portal,56,18,No
+171,53,Male,Sales,Manager,Bachelor's,21,92665.99,Medium,5,300,Medium,51,2016-08-18,Campus,40,19,No
+172,27,Female,Finance,Specialist,Bachelor's,25,60588.75,Low,8,307,Low,13,2012-02-20,Job Portal,27,7,Yes
+173,53,Male,IT,Specialist,Master's,27,95229.01,High,5,335,High,72,2014-09-13,Agency,28,18,Yes
+174,25,Male,Sales,Analyst,PhD,20,35882.07,Medium,72,233,Medium,14,2020-11-27,Referral,34,5,Yes
+175,32,Female,IT,Clerk,PhD,6,58376.13,High,94,7,Low,20,2013-08-04,Agency,59,19,Yes
+176,38,Female,IT,Clerk,Bachelor's,16,78554.22,Medium,31,340,High,34,2019-03-14,Job Portal,37,18,Yes
+177,59,Female,Finance,Engineer,Master's,19,101165.08,High,40,128,Low,65,2011-06-07,Job Portal,39,3,No
+178,45,Male,HR,Analyst,Bachelor's,19,58687.73,Medium,75,263,High,90,2011-06-06,Job Portal,25,6,No
+179,26,Female,Operations,Analyst,Bachelor's,21,86330.22,Low,7,156,Medium,1,2023-05-11,Referral,31,3,No
+180,55,Male,Operations,Analyst,Bachelor's,27,109738.0,Medium,71,351,Low,34,2016-05-09,Campus,21,11,No
+181,27,Male,Finance,Analyst,Master's,6,85427.69,High,49,357,High,81,2012-07-24,Agency,26,12,No
+182,43,Male,IT,Clerk,PhD,0,50966.35,High,91,4,Low,77,2016-02-09,Agency,35,2,No
+183,32,Female,Sales,Clerk,Master's,31,32196.07,Medium,61,85,Low,19,2021-01-23,Campus,22,11,No
+184,37,Female,IT,Analyst,High School,12,108308.9,Low,83,174,Medium,81,2022-07-20,Agency,22,1,Yes
+185,54,Male,Finance,Engineer,Master's,29,31914.25,Low,61,289,Low,9,2023-07-13,Referral,46,1,Yes
+186,30,Male,Operations,Manager,Master's,22,108723.15,Medium,6,192,High,24,2020-02-15,Agency,59,8,No
+187,27,Female,IT,Manager,Master's,18,77604.34,Medium,74,310,High,65,2017-10-08,Job Portal,57,0,No
+188,37,Male,Operations,Engineer,Master's,31,114516.09,High,83,118,High,24,2021-03-07,Campus,52,7,Yes
+189,50,Female,Sales,Analyst,PhD,29,101890.49,Low,79,217,High,53,2016-09-27,Referral,47,5,Yes
+190,24,Male,Operations,Clerk,High School,28,119814.07,Medium,3,113,Medium,32,2018-11-18,Campus,20,5,Yes
+191,41,Female,Operations,Manager,PhD,28,61564.06,Low,5,144,Low,35,2019-03-14,Referral,27,17,Yes
+192,57,Male,HR,Specialist,PhD,29,99046.95,Medium,57,25,Medium,94,2011-11-17,Job Portal,56,16,No
+193,40,Female,HR,Specialist,Master's,15,66173.78,Medium,21,135,Low,13,2015-12-01,Campus,51,11,Yes
+194,47,Male,HR,Engineer,Bachelor's,18,73188.81,Low,25,302,Low,64,2020-12-02,Agency,56,5,No
+195,24,Female,Operations,Analyst,Bachelor's,17,86475.49,Medium,2,231,Low,109,2021-02-18,Referral,23,7,No
+196,40,Female,Finance,Manager,PhD,0,108630.94,Medium,40,75,Medium,79,2014-04-17,Campus,49,18,No
+197,41,Male,Operations,Analyst,PhD,13,118567.51,High,59,327,Low,53,2010-02-08,Agency,25,9,Yes
+198,53,Male,Finance,Manager,Master's,1,99144.61,Medium,13,344,Medium,109,2016-12-19,Campus,38,0,Yes
+199,28,Female,Finance,Engineer,PhD,27,67599.01,Medium,74,301,High,51,2023-05-08,Campus,51,12,No
+200,54,Male,HR,Engineer,Master's,29,67922.13,Medium,81,288,High,2,2013-06-10,Campus,28,16,No
